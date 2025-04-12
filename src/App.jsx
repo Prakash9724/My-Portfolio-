@@ -6,7 +6,6 @@ import Services from './components/Services';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
 const App = () => {
   return (
     <div className="bg-[#0a0a0a] min-h-screen text-white">
